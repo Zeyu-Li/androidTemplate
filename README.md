@@ -4,7 +4,7 @@
 
 This is Android template that contains just a title and a button that toggles the display of an stylized "L"
 
-
+![snapshot](snapshot.png)
 
 ### Notes for Android
 
