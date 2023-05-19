@@ -15,7 +15,7 @@ If updating Kotlin, update the build.gradle version number in Gradle Scripts
 1. First go to the **Android Display**
 2. In the gear icon on the projects structure, uncheck **Compact Middle Packages**
 3. Drill down to java -> com -> #someDirName -> #someProjectName
-4. Right click on the project and click <u>R</u>efractor -> Rename
+4. Right click on the project and click <u>R</u>efactor -> Rename
 5. Accept by clicking **Do Refactor** on bottom left corner in console view
 6. Go to the build.gradle
 7. Change **applicationId** to the new dir path (as a string)
